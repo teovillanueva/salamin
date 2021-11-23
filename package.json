@@ -1,0 +1,15 @@
+{
+  "name": "salamin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "teovillanueva",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.177",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongodb": "^4.2.0"
+  }
+}
